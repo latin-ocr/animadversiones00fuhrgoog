@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./animadversiones00fuhrgoog_0069.png"; bbox 0 0 904 1373; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 99 96 327 107">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 99 96 327 107">
+     <span class='ocr_line' id='line_1_1' title="bbox 99 96 327 107; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 99 96 327 107; x_wconf 63' lang='lat' dir='ltr'>mmm-soe</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 112 122 345 191">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 112 122 345 191">
+     <span class='ocr_line' id='line_1_2' title="bbox 112 122 345 191; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 112 174 124 191; x_wconf 86' lang='lat'>:3</span> <span class='ocrx_word' id='word_1_3' title='bbox 138 122 189 191; x_wconf 82' lang='grc'>20414</span> <span class='ocrx_word' id='word_1_4' title='bbox 203 173 241 191; x_wconf 87' lang='grc'>085</span> <span class='ocrx_word' id='word_1_5' title='bbox 256 173 293 191; x_wconf 90' lang='grc'>074</span> <span class='ocrx_word' id='word_1_6' title='bbox 308 173 345 191; x_wconf 82' lang='lat'>292</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 904 1373">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 904 1373">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 904 1373; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 904 1373; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
